@@ -1,0 +1,23 @@
+{
+  "name": "fileorganizer",
+  "version": "1.0.0",
+  "description": "file organizer using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nomankey/file-organizer.git"
+  },
+  "author": "nomankey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nomankey/file-organizer/issues"
+  },
+  "homepage": "https://github.com/Nomankey/file-organizer#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
